@@ -36,7 +36,7 @@ This behavior allows an attacker to craft malicious requests to internal service
 
 <img width="1028" height="942" alt="1" src="https://github.com/user-attachments/assets/9a176482-3916-41ae-b15a-4e3f687d34d1" />
 
-<img width="981" height="866" alt="2" src="https://github.com/user-attachments/assets/d4664159-65c7-44fb-bbd7-8e910d0c1291" />
+<img width="981" height="866" alt="2" src="https://github.com/user-attachments/assets/8731f3a5-c890-4fd7-82f0-8088e9caacb6" />
 
 <img width="981" height="864" alt="3" src="https://github.com/user-attachments/assets/bd095121-da8e-4edb-a4fa-52442ffaf88a" />
 
